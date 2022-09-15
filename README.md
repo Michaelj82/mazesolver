@@ -1,2 +1,4 @@
 # mazesolver
-Python Maze Solver
+Python Maze Solver using recursion
+
+https://michaelj82.github.io/mazesolver/
